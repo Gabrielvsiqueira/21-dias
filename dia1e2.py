@@ -2,6 +2,8 @@
 idade = 23; #tipo int recebe valores do tipo inteiro, não aceita numeros reais.
 nome = "Gabriel";
 altura=1.82; #tipo float é um tipo numérico que aceita valores reais (numeros com virgulas).
+nome_completo = "Gabriel vitor Siqueira"
+print("seja bem vindo," + nome_completo + "!");
 
 # ======= tipos de dados ======
 #int, float, strings, bool
